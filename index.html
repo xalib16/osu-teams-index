@@ -186,9 +186,13 @@
             teamHeader.className = 'team-header';
             const headerImageContainer = document.createElement('div');
             headerImageContainer.className = 'header-image-container';
-            headerImageContainer.style.backgroundImage = `url('${teamInfo.header_url}')`;
+            if (teamInfo.header_url) {
+                headerImageContainer.style.backgroundImage = `url('${teamInfo.header_url}')`;
+            };
             const teamFlag = document.createElement('span');
-            teamFlag.style.backgroundImage = `url('${teamInfo.flag_url}')`;
+            if (teamInfo.flag_url) {
+                teamFlag.style.backgroundImage = `url('${teamInfo.flag_url}')`;
+            };
             //teamFlag.alt = 'No flag image';
             teamFlag.className = 'team-flag';
 
