@@ -256,7 +256,7 @@
                 const teamName = team.name.toLowerCase();
                 const teamShortName = team.short_name.toLowerCase();
                 const teamLeaderName = team.leader.username.toLowerCase();
-                return teamId.includes(query) || teamName.includes(query) || teamShortName.includes(query) || teamLeaderName.includes(query);
+                return teamName.includes(query) || teamShortName.includes(query) || teamLeaderName.includes(query) || teamId == query;
             });
 
             filteredTeams.slice(0, teamsToShow).forEach(createTeamCard);
