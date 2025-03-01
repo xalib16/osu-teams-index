@@ -13374,5 +13374,2037 @@
       "id": 29828623,
       "avatar_url": "https://a.ppy.sh/29828623?1740072736.jpeg"
     }
+  },
+  {
+    "id": 1471,
+    "name": "LycoReco",
+    "short_name": "Lyco",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1471/5b8783cce038303234ca77366b7bbf65348ac93b0d50f96fd8e90f255e3c658b.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1471/3167f7fe870022aefe475e0bb8d422c0719ed7c66988098121e6c092cae54fbb.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 9,
+    "leader": {
+      "username": "not_Shiza",
+      "id": 15952436,
+      "avatar_url": "https://a.ppy.sh/15952436?1726098571.jpeg"
+    }
+  },
+  {
+    "id": 1472,
+    "name": "Cute Bunny",
+    "short_name": "BUNY",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1472/cbb9bd817ed0327f57486fc6e60e5d36eb007fa1b71d736cfcdc41be31bfae3f.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1472/fbc31b6f1774068c9b4402fb322faab1219a7fdc43b8ffb5cde69c5c6e3291b0.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 23,
+    "leader": {
+      "username": "Zhyich",
+      "id": 20584384,
+      "avatar_url": "https://a.ppy.sh/20584384?1740580760.jpeg"
+    }
+  },
+  {
+    "id": 1473,
+    "name": "No Ratio Snipe",
+    "short_name": "NRS",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1473/67838cc3b3f2120561891003cab41dacf87f02d04fac55c221c2dc65701ac204.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1473/91cd989455de0ee41518b85c0079a4577293e0302bc8feb0ab14b952b603f830.gif",
+    "created": "February 2025",
+    "default_ruleset": "osu!mania",
+    "application_status": "Open",
+    "member_count": 3,
+    "leader": {
+      "username": "ZefliN",
+      "id": 27455673,
+      "avatar_url": "https://a.ppy.sh/27455673?1740133592.jpeg"
+    }
+  },
+  {
+    "id": 1474,
+    "name": "Operation Rhythm Games",
+    "short_name": "ORG",
+    "flag_url": null,
+    "header_url": null,
+    "created": "February 2025",
+    "default_ruleset": "osu!mania",
+    "application_status": "Open",
+    "member_count": 3,
+    "leader": {
+      "username": "NovaCrack",
+      "id": 25781802,
+      "avatar_url": "https://a.ppy.sh/25781802?1724849085.jpeg"
+    }
+  },
+  {
+    "id": 1475,
+    "name": "Derankers",
+    "short_name": "Drnk",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1475/48c5fd5bbed86403c71cf0608cf5f3efd0b402b62aa9991cef279a5e0047cf10.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1475/568b8a8a311466bd5e897cf11c9318348677e41d997fed4e9261176a662110a8.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 1,
+    "leader": {
+      "username": "My Angel Kaguya",
+      "id": 11316328,
+      "avatar_url": "https://a.ppy.sh/11316328?1740513407.jpeg"
+    }
+  },
+  {
+    "id": 1477,
+    "name": "SMI Industry",
+    "short_name": "SMI",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1477/8218ff8ff8642bd229571bca7faf305fadf69e9dc1eebc9e3fc3005d2215ad06.gif",
+    "header_url": "https://assets.ppy.sh/teams/header/1477/9339fb6c548c87cf1e5552f026898e8036e67b41119439fa16f8ded170b2aed0.gif",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 9,
+    "leader": {
+      "username": "lelxdme",
+      "id": 13795588,
+      "avatar_url": "https://a.ppy.sh/13795588?1739208675.png"
+    }
+  },
+  {
+    "id": 1479,
+    "name": "Balloc probiotics",
+    "short_name": "bllc",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1479/85f5b1335ade61f221d6aaa22663697baefaa243cb8bdf21c66a034730f7f849.gif",
+    "header_url": "https://assets.ppy.sh/teams/header/1479/a68fc6825a813e168abfa6afd481a4b58653d7bf3fe1bda520b69a09c69e5140.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 8,
+    "leader": {
+      "username": "lespi6",
+      "id": 4595465,
+      "avatar_url": "https://a.ppy.sh/4595465?1732616383.jpeg"
+    }
+  },
+  {
+    "id": 1480,
+    "name": ":skull:",
+    "short_name": "727!",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1480/05e0d5afb07d69f685d69caf513a54955566c9837b6d669576bdd00e146b943f.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1480/37eb0e6ff59dc5b704431c5d341e9a90dc5cfc286d1d0489c7674fea21503e4a.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 2,
+    "leader": {
+      "username": "nekomint",
+      "id": 24028605,
+      "avatar_url": "https://a.ppy.sh/24028605?1702055847.jpeg"
+    }
+  },
+  {
+    "id": 1483,
+    "name": "osu!friends",
+    "short_name": "oof!",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1483/d1fd6e8fb8f11b93590d7ced6418d335f99f0ae54bdb3bc1e305b79db85e54e5.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1483/690987f03e7b1085284a9d8c0a8f4e0bab3bc4ac44faff417d816dcf8422de7d.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 11,
+    "leader": {
+      "username": "ming0328ming",
+      "id": 2984074,
+      "avatar_url": "https://a.ppy.sh/2984074?1740247772.gif"
+    }
+  },
+  {
+    "id": 1488,
+    "name": "drain ga4322",
+    "short_name": "D925",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1488/99c2627de4ff6cf1e0892ef6e65f5ee44fa53bb7a621ef4fd2087d74cb5be289.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1488/1ad1a4f07a91489f242e93b48b33ef97bdbcc0b3a870528a558e7fa208b8a5e4.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 6,
+    "leader": {
+      "username": "postman386",
+      "id": 8552690,
+      "avatar_url": "https://a.ppy.sh/8552690?1465816252.jpg"
+    }
+  },
+  {
+    "id": 1490,
+    "name": "ooufie fan club",
+    "short_name": "wouf",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1490/51f3d80b8d71a2b0ff99245d42d4a7530369d7513af86e852abc7523463b2c2d.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1490/a205cee1a33809b180d8c35563f36593e053f5b1055238f3b4ba2ce3a62ab1fe.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 14,
+    "leader": {
+      "username": "Long",
+      "id": 11688228,
+      "avatar_url": "https://a.ppy.sh/11688228?1737004364.jpeg"
+    }
+  },
+  {
+    "id": 1491,
+    "name": "Onimai",
+    "short_name": "TSF",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1491/50221b687e4e4e50ad8157ad91a276753bb986643a6b4274a0f7c6b8e4706290.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1491/f4a3fc0dd3ece0030c168f68e1c3ccb4f94d032227efea262966e6a9e41e3028.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!mania",
+    "application_status": "Open",
+    "member_count": 1,
+    "leader": {
+      "username": "oyama mahiro",
+      "id": 21207265,
+      "avatar_url": "https://a.ppy.sh/21207265?1734614109.jpeg"
+    }
+  },
+  {
+    "id": 1493,
+    "name": "Technical",
+    "short_name": "Tech",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1493/2f4702ac1eba578a08c6c7b4f8d9a87bcb6700e2651a256f505fcaf5da5e3cc9.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1493/8ec574d57336c8f45afd851ad2cdbee5bb85b705ca49624ea878af3740b30e6f.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 4,
+    "leader": {
+      "username": "SaYa-",
+      "id": 14628734,
+      "avatar_url": "https://a.ppy.sh/14628734?1736782992.jpeg"
+    }
+  },
+  {
+    "id": 1494,
+    "name": "Bulgaria",
+    "short_name": "BG",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1494/72722ece0aa87f5a78114ff42b955785156027348ed52f1bf56fa415afaa029a.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1494/4c8ed28d6b35bf96c1872d6c31da7746272fd3a5e2ff19d5a91efb9672d4f206.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 3,
+    "leader": {
+      "username": "DirectX",
+      "id": 8474535,
+      "avatar_url": "https://a.ppy.sh/8474535?1731258759.jpeg"
+    }
+  },
+  {
+    "id": 1495,
+    "name": "Voltaic",
+    "short_name": "VOLT",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1495/5340d261ae11d6a3ee1fdd19e01caa37341de39c41728b588e0fd24ffcbc4675.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1495/5876353ae67cf506b7a2cadec644946acf8c3feb9a9db8c6c2fe33d71f1dffb3.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 1,
+    "leader": {
+      "username": "dimanik1",
+      "id": 11399181,
+      "avatar_url": "https://a.ppy.sh/11399181?1736566555.jpeg"
+    }
+  },
+  {
+    "id": 1497,
+    "name": "vaiperrochki",
+    "short_name": "vprr",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1497/df4d4a977b242e9f5dd68cd192d53a3e7c6568e4d98beec524393b74eada2974.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1497/09f8cf33b3c9df53f20af909e91dd86f3ebe611e77c2b563889434fc601fb872.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 2,
+    "leader": {
+      "username": "xxrian",
+      "id": 28914746,
+      "avatar_url": "https://a.ppy.sh/28914746?1740052589.jpeg"
+    }
+  },
+  {
+    "id": 1498,
+    "name": "ZAMN",
+    "short_name": "ZAMN",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1498/d750ad548aa614a3128056444ef42cb7d6c56dcbf113076d884980d73c2700ee.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1498/138ebedbfd0e6a284705b4d863023badd6af19b36e2ce23ee80360013aaa6095.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 2,
+    "leader": {
+      "username": "iinori",
+      "id": 4800306,
+      "avatar_url": "https://a.ppy.sh/4800306?1733558147.jpeg"
+    }
+  },
+  {
+    "id": 1499,
+    "name": "rurudo",
+    "short_name": "RRD",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1499/c3b0e72d865e7772a9dc95de9708781df14ee85f30118652c7f9e1a67a858f3b.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1499/a0f27d77598035fe9abf354d649fd4f4332da3b94b4821680b806c5919cdde6c.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 0,
+    "leader": {
+      "username": "Runick Fountain",
+      "id": 21919776,
+      "avatar_url": "https://a.ppy.sh/21919776?1729784599.jpeg"
+    }
+  },
+  {
+    "id": 1500,
+    "name": "PP",
+    "short_name": "PP",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1500/da4791b607719dd09045111cae2774387b6769118ab1a5a5e6ceb15e50f2dfc4.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1500/2c3d0f40dcfed1033743ff8373d815e7a70f737130a84ec2748c68c732bbeb40.gif",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 4,
+    "leader": {
+      "username": "Nah",
+      "id": 10218345,
+      "avatar_url": "https://a.ppy.sh/10218345?1684065131.jpeg"
+    }
+  },
+  {
+    "id": 1503,
+    "name": "SHENANIGANS",
+    "short_name": "LN",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1503/a99b9a6e9d67ad55c931a64e689d28a0c1440d487ce7981f72bf941dbb0f7c47.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1503/910f6e3a30cea8e72b2b3aab5125d055fb0a04e42558001345ad7b8bc3b05c4f.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!mania",
+    "application_status": "Open",
+    "member_count": 46,
+    "leader": {
+      "username": "[LS] akarii",
+      "id": 20040064,
+      "avatar_url": "https://a.ppy.sh/20040064?1740656686.jpeg"
+    }
+  },
+  {
+    "id": 1505,
+    "name": "Memezuela",
+    "short_name": "MMZ",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1505/cab99818562bf4a2d90f40c49ca5bf25aa561e13d98678e8b51ff8ee7a532804.gif",
+    "header_url": "https://assets.ppy.sh/teams/header/1505/ac0276979cbe946f54406f61895d368fb2e527a07434e3aef01fbf96c5353add.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 31,
+    "leader": {
+      "username": "ZebbyX",
+      "id": 10189326,
+      "avatar_url": "https://a.ppy.sh/10189326?1737741652.png"
+    }
+  },
+  {
+    "id": 1506,
+    "name": "Bagels",
+    "short_name": "yum!",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1506/cd58469c9d72eb0b3e422a6cad00d4eef1c99ecfb92dfe11998b2281efc53a03.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1506/8e0e0aba4b9557594c85d9e684b407319a6900c014388c7837d39778d0429248.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 1,
+    "leader": {
+      "username": "canopea",
+      "id": 13334198,
+      "avatar_url": "https://a.ppy.sh/13334198?1698831560.jpeg"
+    }
+  },
+  {
+    "id": 1507,
+    "name": "BURIBURI",
+    "short_name": "BURI",
+    "flag_url": null,
+    "header_url": null,
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 2,
+    "leader": {
+      "username": "yukin1014",
+      "id": 8329753,
+      "avatar_url": "https://a.ppy.sh/8329753?1697163091.jpeg"
+    }
+  },
+  {
+    "id": 1510,
+    "name": "TouhouProject",
+    "short_name": "THP",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1510/88edaf9ffc49366dc4605ff15d3840cd8854d04e892e0509d7db209ca45fee5c.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1510/9d326da3fef2d2a9a13d1c1bd2bde088164c47f34184a11d9a1ab6bc03c56f5b.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 12,
+    "leader": {
+      "username": "SuperBox",
+      "id": 4783121,
+      "avatar_url": "https://a.ppy.sh/4783121?1740329229.png"
+    }
+  },
+  {
+    "id": 1511,
+    "name": "Kaerimichi",
+    "short_name": "Me0w",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1511/13b7b2693c0a9e124edd4c07765f5ed3d06766bbc21e496d26cb4738ffcb6dbf.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1511/8db29248a228782e73e37d997d2c01d56ed9f9db1432333b958bd43b077ea0df.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 8,
+    "leader": {
+      "username": "BlackWolfosu",
+      "id": 11082742,
+      "avatar_url": "https://a.ppy.sh/11082742?1738309014.jpeg"
+    }
+  },
+  {
+    "id": 1513,
+    "name": "Sapphire",
+    "short_name": "SAPP",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1513/91cf2a51f1c11ef9e0aa5ca823dccc1b5f912fdf685b29a15d46a14459402e9e.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1513/93f838137a506dfdc9a0806d07ae1b930959584b05ac20242fc9b7af45eac060.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 0,
+    "leader": {
+      "username": "Ravishing",
+      "id": 9391043,
+      "avatar_url": "https://a.ppy.sh/9391043?1736833760.gif"
+    }
+  },
+  {
+    "id": 1514,
+    "name": "Velocity",
+    "short_name": "Velo",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1514/57673a7a3ec962dcbc72811bbef26e11a62e807607f574e953a059f378e765ed.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1514/563be927a6a6e3f533387260f5c50412119fd320af872e642e80db47699d23b1.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 2,
+    "leader": {
+      "username": "Elysium",
+      "id": 18707541,
+      "avatar_url": "https://a.ppy.sh/18707541?1734665916.jpeg"
+    }
+  },
+  {
+    "id": 1515,
+    "name": "Nebula Anomaly Pulse Abyss",
+    "short_name": "NAPA",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1515/2d536593b73575c10b0d5b14f4675214ad690e8b29e1eaf16ad9bc9c21b46407.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1515/8188bdd67df0f644a18c4b01fc5a66157cc9dfcfc0dcce93e00f823a528f781e.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 7,
+    "leader": {
+      "username": "napalm",
+      "id": 15352888,
+      "avatar_url": "https://a.ppy.sh/15352888?1571158759.jpeg"
+    }
+  },
+  {
+    "id": 1516,
+    "name": "Los wawas",
+    "short_name": "wawa",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1516/19041275170b3981f717741d551221ad134232e72b8c0a7bba305061c088be44.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1516/4b63141239299a2f6f857f24bcb23e118cc9a37b752fde9af387f320988d643b.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 2,
+    "leader": {
+      "username": "Slariux",
+      "id": 32830509,
+      "avatar_url": "https://a.ppy.sh/32830509?1737827112.png"
+    }
+  },
+  {
+    "id": 1517,
+    "name": "ChizuCheese My Angel",
+    "short_name": "CZU",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1517/655e288813942809bf39bb79b661ceeacd1dadaaca695c18239ddd44fda13a2c.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1517/04a1bf7f999d3d987142f2ecc53b5b0206631b0933e39db1980483f964afc1c8.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 3,
+    "leader": {
+      "username": "MeowHou",
+      "id": 16997804,
+      "avatar_url": "https://a.ppy.sh/16997804?1739520373.png"
+    }
+  },
+  {
+    "id": 1519,
+    "name": "Team Circle Wars",
+    "short_name": "CW",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1519/e306f7fa78647a9a66d34ec4c9cb4bda9f53cfef29d06ff07b0a242960004540.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1519/5efda4ca4cefdf4a4dd1a23ce688dd143015d1283500b2f256158d0f80f1137a.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 3,
+    "leader": {
+      "username": "Hetzer357",
+      "id": 22690359,
+      "avatar_url": "https://a.ppy.sh/22690359?1730563751.jpeg"
+    }
+  },
+  {
+    "id": 1521,
+    "name": "Ho-kago Tea Time",
+    "short_name": "K-ON",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1521/98295e793529bd29171afe0311ecf82a55fc3de28be5184be79763bb6eda7bd0.png",
+    "header_url": null,
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Closed",
+    "member_count": 0,
+    "leader": {
+      "username": "Ritsu Tainaka",
+      "id": 7206818,
+      "avatar_url": "https://a.ppy.sh/7206818?1726904453.jpeg"
+    }
+  },
+  {
+    "id": 1523,
+    "name": "Fated To Grind",
+    "short_name": "FTG",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1523/73bc0dea0788f3726fc9995d7f7194345b85b43775af00e47b7a5da72e71e0ce.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1523/beb81a0b0ecde31c9e1e166b091c6962c3cf603d610c4b0fcaaf87f2aef1b586.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!mania",
+    "application_status": "Open",
+    "member_count": 2,
+    "leader": {
+      "username": "[FTG]Hira",
+      "id": 24780575,
+      "avatar_url": "https://a.ppy.sh/24780575?1736697708.jpeg"
+    }
+  },
+  {
+    "id": 1525,
+    "name": "ZESTY",
+    "short_name": "Zest",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1525/9f65feedfcb25b6b6d191ecada94b6694ea285fa3d0ccfdb73e306469e1ddb17.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1525/e9560e5723ad67c589b7fb05efb61f56328200c077881367155d283bb4bb8955.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 3,
+    "leader": {
+      "username": "zesteas",
+      "id": 14435375,
+      "avatar_url": "https://a.ppy.sh/14435375?1705807083.jpeg"
+    }
+  },
+  {
+    "id": 1530,
+    "name": "LeBron",
+    "short_name": "23",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1530/ddf0e3301ab2166ddddcbf2e28166e9c55c3244e50fb201315e4f76455161098.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1530/6b01e73037bc052507633c2a5e72da90b4e99da745e448ae60f2381a78471997.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 5,
+    "leader": {
+      "username": "willysucker3000",
+      "id": 15184464,
+      "avatar_url": "https://a.ppy.sh/15184464?1740540716.jpeg"
+    }
+  },
+  {
+    "id": 1531,
+    "name": "Harumachi Clover",
+    "short_name": "HRMC",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1531/711da4dd90a77ff859991c6145bafce86a8a9312cfdd5c1ad1ec67406123ebca.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1531/e0b27b50f1825f667a27238acb5273de53d0016dc6ba714f6583370c417378b7.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 1,
+    "leader": {
+      "username": "Butterzooka92",
+      "id": 18741690,
+      "avatar_url": "https://a.ppy.sh/18741690?1720931355.jpeg"
+    }
+  },
+  {
+    "id": 1532,
+    "name": "baz",
+    "short_name": "baz",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1532/9bb3bd1d2b7d5551935a7bc7fb7cca1ee25bdced95d4f9a53290481578bea5b6.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1532/6e6ef502bba1b32f3777e8b182d13e578a54c25a4eff3c699e80f5ec37ecea6e.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Closed",
+    "member_count": 0,
+    "leader": {
+      "username": "baz",
+      "id": 4422329,
+      "avatar_url": "https://a.ppy.sh/4422329?1630977602.jpeg"
+    }
+  },
+  {
+    "id": 1534,
+    "name": "Osu!mania",
+    "short_name": "MNIA",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1534/905136fffa5f9cca6cfcde16596a0861c1401d2bd281ce950bb09c2d1deb2945.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1534/905136fffa5f9cca6cfcde16596a0861c1401d2bd281ce950bb09c2d1deb2945.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!mania",
+    "application_status": "Closed",
+    "member_count": 0,
+    "leader": {
+      "username": "AHHHHHHHHHHHHHH",
+      "id": 8249608,
+      "avatar_url": "https://a.ppy.sh/8249608?1721193997.png"
+    }
+  },
+  {
+    "id": 1539,
+    "name": "Basbug",
+    "short_name": "OMSK",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1539/6046b1e2ffe853af64b8ce2fe28c1d089c6e8bb8409e347d74296c180770b68c.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1539/e2a2763a56010796817a6a4e784e2feaa012a87f6b54c182e8854f1b2751f1e2.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 3,
+    "leader": {
+      "username": "Niek-",
+      "id": 13082962,
+      "avatar_url": "https://a.ppy.sh/13082962?1730155276.jpeg"
+    }
+  },
+  {
+    "id": 1542,
+    "name": "HDHR",
+    "short_name": "HDHR",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1542/8e5504a58df5d64c26423ab2700ec19ab3a09e20966daf8242bf492dfd8b262a.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1542/93c4a26482d943d08f79a77fd97d74ee5783437932dcb83a3e3db559cd105d78.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 1,
+    "leader": {
+      "username": "arthouse",
+      "id": 33408999,
+      "avatar_url": "https://a.ppy.sh/33408999?1738827475.jpeg"
+    }
+  },
+  {
+    "id": 1543,
+    "name": "this will affect the dodge population i think",
+    "short_name": "1234",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1543/20e7b44d5bd390fad72df48eedadea67b6c06f970b29807dc64392a7f71b89bf.png",
+    "header_url": null,
+    "created": "February 2025",
+    "default_ruleset": "osu!mania",
+    "application_status": "Open",
+    "member_count": 4,
+    "leader": {
+      "username": "Wildcard",
+      "id": 25950685,
+      "avatar_url": "https://a.ppy.sh/25950685?1724605167.jpeg"
+    }
+  },
+  {
+    "id": 1544,
+    "name": "Girl's Love for Life",
+    "short_name": "GL4L",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1544/11f00e0fdb264ab62d8b68db19c9a6058c5d17c8e5ffa3b24d7c6b09b3577253.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1544/db0fce7da0e78a694cd59a2a3f0804ca2248c1a7a5445c271d8f1feb86302cfd.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 1,
+    "leader": {
+      "username": "sayonara",
+      "id": 16488613,
+      "avatar_url": "https://a.ppy.sh/16488613?1739629084.png"
+    }
+  },
+  {
+    "id": 1548,
+    "name": "<<< TIDAL WAVE >>>",
+    "short_name": "TDW",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1548/85128d414141dee347a89822813b7b14f2b54a48c7e0277047f5681ababcd125.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1548/9443c3d15452de3e6764da4a1d0ea4d3b3bbf521970922bf25f9851ef9036a3f.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 52,
+    "leader": {
+      "username": "VitorSkull",
+      "id": 10223298,
+      "avatar_url": "https://a.ppy.sh/10223298?1740266448.png"
+    }
+  },
+  {
+    "id": 1555,
+    "name": "Kanojo, Okarishimasu",
+    "short_name": "KNKR",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1555/165dc2b58154a2094041bfd47e207b5ecbc635c02eb20e7b156be18e9d1f0ac8.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1555/055eba5b00220fab3cac71b884410bc37ab9852fbcee1e97c0c463504fe6f5d6.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 10,
+    "leader": {
+      "username": "Dellirium",
+      "id": 519032,
+      "avatar_url": "https://a.ppy.sh/519032?1740249714.jpeg"
+    }
+  },
+  {
+    "id": 1556,
+    "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "short_name": "FIRE",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1556/bdb20dd1fd86e57576ef2c6ded0acbee4429f88f71ffeaa10c5e1e931c54ca7c.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1556/c8a948c0dbf97526a63e3b2d28829c164d668081db0a0bee660f105be64296ad.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 1,
+    "leader": {
+      "username": "65_7a",
+      "id": 20865209,
+      "avatar_url": "https://a.ppy.sh/20865209?1740052428.png"
+    }
+  },
+  {
+    "id": 1562,
+    "name": "polemik victor",
+    "short_name": "plkv",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1562/cfb5a9b4997d60ab219b460d9bc422bb35c7fcd26e8803348a6636d37acf2228.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1562/35f214e3232ea6cd0a7cb028212c717178dcd2ed612b63f049c991f244bd5abc.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!taiko",
+    "application_status": "Open",
+    "member_count": 3,
+    "leader": {
+      "username": "polemik victor",
+      "id": 11592579,
+      "avatar_url": "https://a.ppy.sh/11592579?1710441760.jpeg"
+    }
+  },
+  {
+    "id": 1563,
+    "name": "EYP Warning",
+    "short_name": "EYP",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1563/9293e75d23068eedda0cf18681b561d9c58ad49395bb7734816d5a853c956231.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1563/30f73cd89f366ce1837f1b41550eb21edaab6ad6b8074c939079e4c2f17b7e67.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 37,
+    "leader": {
+      "username": "F3n1X",
+      "id": 16083856,
+      "avatar_url": "https://a.ppy.sh/16083856?1737078082.jpeg"
+    }
+  },
+  {
+    "id": 1565,
+    "name": "MizuIro's Room",
+    "short_name": "MZIR",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1565/e1cf2e2373b7d3b0f8c36422bf9422464830ff8dc13d0a5427539bb36144e537.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1565/01430fd09f7479ed41b80500befd99ca32b64f8bb41f34022ae0715fcbf13a51.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!mania",
+    "application_status": "Open",
+    "member_count": 0,
+    "leader": {
+      "username": "MizuIro_H",
+      "id": 10501728,
+      "avatar_url": "https://a.ppy.sh/10501728?1692340202.jpeg"
+    }
+  },
+  {
+    "id": 1566,
+    "name": "EKTONIKA",
+    "short_name": "18RU",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1566/97efb7357087fcc5a01b6f16da790b1ef2ded7897dbaa3752ca3553c2b1a4d0b.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1566/20ec9fc5beefebc96e5629964b49aa1439598767ffc82600d9c066f072045e1f.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 15,
+    "leader": {
+      "username": "Headache",
+      "id": 5465827,
+      "avatar_url": "https://a.ppy.sh/5465827?1709997164.png"
+    }
+  },
+  {
+    "id": 1570,
+    "name": "ANTIHYPE",
+    "short_name": "TGHU",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1570/59ce6860ac83b548730f787feeed95919fa8fa3bd57da7c41a9bd72330d96f02.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1570/85066ce3baa0341a0ca3e9e93c1f165ba716a37b4b7c0683ccf0d17c9ec980bc.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!mania",
+    "application_status": "Open",
+    "member_count": 5,
+    "leader": {
+      "username": "[4VKZ] HV4",
+      "id": 25913397,
+      "avatar_url": "https://a.ppy.sh/25913397?1735998778.jpeg"
+    }
+  },
+  {
+    "id": 1571,
+    "name": "emo kids",
+    "short_name": "goth",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1571/31d2764bacb06f76c0675d995ce7df133c8bc15684f1413ffd124aa614d6bfd2.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1571/e4dc7199ccf3ee1b575ed081e7ddcc464e3bf4f9151662b5aea408ec9165f9e0.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 4,
+    "leader": {
+      "username": "KrutoiCheI",
+      "id": 31969714,
+      "avatar_url": "https://a.ppy.sh/31969714?1739162785.jpeg"
+    }
+  },
+  {
+    "id": 1572,
+    "name": "Fade Net2rk",
+    "short_name": "F2",
+    "flag_url": null,
+    "header_url": null,
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 0,
+    "leader": {
+      "username": "waltzy",
+      "id": 15452149,
+      "avatar_url": "https://a.ppy.sh/15452149?1706061605.jpeg"
+    }
+  },
+  {
+    "id": 1573,
+    "name": "The Rabbit Hole",
+    "short_name": "kryo",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1573/f297506fa46be415de9517ac9f48c996c53756443b4a3bc5ab3aad5589925309.gif",
+    "header_url": "https://assets.ppy.sh/teams/header/1573/7654800a8eda01dc8ba6150143cd4f055c0bbf1fcc8603836db9eff6eaf010ab.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 14,
+    "leader": {
+      "username": "OliBomby",
+      "id": 6573093,
+      "avatar_url": "https://a.ppy.sh/6573093?1569784122.png"
+    }
+  },
+  {
+    "id": 1575,
+    "name": "The Russian Mouse Mafia",
+    "short_name": "TRMM",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1575/fdcb92f3c01974b74f2ad4f064b57b7ac3cfdcef4306b8d172d185eb2f907b7f.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1575/e77c40c1e57b995e95e2771c9b51a8a60d99512b011901f28e039f987df4907a.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 1,
+    "leader": {
+      "username": "GamerNightmares",
+      "id": 21803290,
+      "avatar_url": "https://a.ppy.sh/21803290?1700663932.png"
+    }
+  },
+  {
+    "id": 1579,
+    "name": "fmt.kr",
+    "short_name": "fmt",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1579/c35a9cc907c3532bfe2db92a994a9c29288a6d91b9b29a3fb99dddde088b456e.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1579/c35a9cc907c3532bfe2db92a994a9c29288a6d91b9b29a3fb99dddde088b456e.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 3,
+    "leader": {
+      "username": "Blobfish",
+      "id": 5310404,
+      "avatar_url": "https://a.ppy.sh/5310404?1738482050.jpeg"
+    }
+  },
+  {
+    "id": 1580,
+    "name": "] [",
+    "short_name": "] [",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1580/af7e9c8089d61ec0a223041b7dfa16ef06b6064dd919d6547c66df98b9263d3f.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1580/af7e9c8089d61ec0a223041b7dfa16ef06b6064dd919d6547c66df98b9263d3f.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 0,
+    "leader": {
+      "username": "] [",
+      "id": 13506780,
+      "avatar_url": "https://a.ppy.sh/13506780?1740182040.png"
+    }
+  },
+  {
+    "id": 1586,
+    "name": "Sosers",
+    "short_name": "Sos?",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1586/3ced117da96e64691a477a312f8e704fe8620c93406ce7d372505acf8aa677fc.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1586/ff6f4dc439fe8884b338ffa8b83b92fd3ebafcc097a06a21b1d333979a71f91b.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 4,
+    "leader": {
+      "username": "Dmitro1338",
+      "id": 18249191,
+      "avatar_url": "https://a.ppy.sh/18249191?1631005480.jpeg"
+    }
+  },
+  {
+    "id": 1588,
+    "name": "black cat",
+    "short_name": "bcat",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1588/14e5f1b207b73bd81ada9fb6cb0d278f135754dc01f2638c611824de19625f36.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1588/12c8fa3e0153823a33c04a703d99081de10092073908f412f43779fde1b05150.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 9,
+    "leader": {
+      "username": "JoshywaBoo",
+      "id": 19656568,
+      "avatar_url": "https://a.ppy.sh/19656568?1716696276.jpeg"
+    }
+  },
+  {
+    "id": 1590,
+    "name": "o!rdr",
+    "short_name": "ORDR",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1590/da55b3917d1be5c5cef6053022eb8023979e2f6f7c969b5b7db23668c58f1745.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1590/95bbc11877a5dd9c9d410eb5961d36221e0e9640494f77fe93971cfdb549c08e.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 7,
+    "leader": {
+      "username": "MasterIO02",
+      "id": 12297980,
+      "avatar_url": "https://a.ppy.sh/12297980?1724272611.jpeg"
+    }
+  },
+  {
+    "id": 1592,
+    "name": "xoxo",
+    "short_name": "xoxo",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1592/efc6a10e097dde6c4a95e97a9ae1f818f69609b56de8bddb518b56a0afdb1d65.png",
+    "header_url": null,
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 3,
+    "leader": {
+      "username": "calishu",
+      "id": 36748091,
+      "avatar_url": "https://a.ppy.sh/36748091?1737062435.jpeg"
+    }
+  },
+  {
+    "id": 1595,
+    "name": "u's",
+    "short_name": "u's",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1595/135a5bf74e958ac62278276503887a04e2cc8b2fbf070bc1d23477043f769339.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1595/e8217b0bbe547027f3b0a13e9ec4e642ee5095cc9b5ce84892b4b52a1d1e7c98.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 2,
+    "leader": {
+      "username": "rayhong0313",
+      "id": 24786336,
+      "avatar_url": "https://a.ppy.sh/24786336?1740052135.jpeg"
+    }
+  },
+  {
+    "id": 1599,
+    "name": "3 Stutz",
+    "short_name": "3chf",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1599/90e38f31b2a9b2e258d96ceceda4cb91a887780d8cb35acb915c6ea737656977.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1599/10a178e6033339f40dc8a37d476082d062ae356b2d99f5a4a8db99150da581cf.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 9,
+    "leader": {
+      "username": "LordKirb",
+      "id": 7864787,
+      "avatar_url": "https://a.ppy.sh/7864787?1739567479.jpeg"
+    }
+  },
+  {
+    "id": 1601,
+    "name": "idiot",
+    "short_name": "dumb",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1601/c577067920dacbf78583799a53025daed49d59729cb736077f985b6ec3e78675.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1601/5ce804be278641e2ad13e8d149b8f2e901d55d2adacc31e4e28d1c4a13b1fc82.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!taiko",
+    "application_status": "Open",
+    "member_count": 3,
+    "leader": {
+      "username": "medusa",
+      "id": 28644829,
+      "avatar_url": "https://a.ppy.sh/28644829?1737501140.jpeg"
+    }
+  },
+  {
+    "id": 1611,
+    "name": "VOCALOID",
+    "short_name": "> <",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1611/84b2b426f4b42ebd7546bc24815b5aa3aceb7cdb67f9e3fed0d822c1af567a57.gif",
+    "header_url": "https://assets.ppy.sh/teams/header/1611/ae45b305e9720a5f7e2aec1f820cc87de6616082a620fe406ec7f632c04a069a.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 15,
+    "leader": {
+      "username": "Neko Reset",
+      "id": 8652006,
+      "avatar_url": "https://a.ppy.sh/8652006?1731805303.gif"
+    }
+  },
+  {
+    "id": 1612,
+    "name": "SRT",
+    "short_name": "R",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1612/f4276a575e4bcbd286b70e85be80b9a0558551914aba2c1374461fdbefc01c06.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1612/6fb848a50027b04815250f4fc613d018162ec7922be571e80a4aefb93a8c3df0.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 6,
+    "leader": {
+      "username": "RABBIT2",
+      "id": 10260284,
+      "avatar_url": "https://a.ppy.sh/10260284?1732363405.jpeg"
+    }
+  },
+  {
+    "id": 1613,
+    "name": "<3",
+    "short_name": "kiss",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1613/34d47900a49879e16d27fb68060a2c332082b954fc66bfdba02c3d2528d7ef53.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1613/53a89182a04ccaf232b1c063660e2335f7425cc3ce009dcbaa0228c5b6ec7fce.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!mania",
+    "application_status": "Open",
+    "member_count": 1,
+    "leader": {
+      "username": "origamibest",
+      "id": 16192531,
+      "avatar_url": "https://a.ppy.sh/16192531?1736098075.jpeg"
+    }
+  },
+  {
+    "id": 1614,
+    "name": "Man I Love Fauna",
+    "short_name": "MILF",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1614/814f402c29e2df314433451b757c966116a6d0e831fff5df8fb1ae9eedcea22c.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1614/51381f82a2189e39c859a77532897f96c2f31b3edc3aa4ae35061fdcbeb8921c.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 0,
+    "leader": {
+      "username": "Freak Fantome",
+      "id": 3115283,
+      "avatar_url": "https://a.ppy.sh/3115283?1739101607.jpeg"
+    }
+  },
+  {
+    "id": 1616,
+    "name": "NoobPeopleManBoy",
+    "short_name": "KULR",
+    "flag_url": null,
+    "header_url": null,
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 1,
+    "leader": {
+      "username": "ComboBreaker",
+      "id": 13544731,
+      "avatar_url": "https://a.ppy.sh/13544731?1715528072.jpeg"
+    }
+  },
+  {
+    "id": 1617,
+    "name": "Frick Hidden",
+    "short_name": "FKHD",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1617/e3f4899011e9435bfacf078a05b71b1cac50ef1907c00d3dd79d2fe0146f2680.gif",
+    "header_url": "https://assets.ppy.sh/teams/header/1617/e3f4899011e9435bfacf078a05b71b1cac50ef1907c00d3dd79d2fe0146f2680.gif",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 4,
+    "leader": {
+      "username": "Toyama Rin",
+      "id": 22219542,
+      "avatar_url": "https://a.ppy.sh/22219542?1738169831.jpeg"
+    }
+  },
+  {
+    "id": 1618,
+    "name": "FOTLIGETeSPORT",
+    "short_name": "fotL",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1618/14da83bc7685eeb53eead90359419172d49fa6a2a102cda447e36c70ddad9c85.gif",
+    "header_url": "https://assets.ppy.sh/teams/header/1618/f9aac842cf847e0f6b98852933a70e8f0f77dc81dacb4d48d8c222c7ce9473e3.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 37,
+    "leader": {
+      "username": "digga",
+      "id": 18576894,
+      "avatar_url": "https://a.ppy.sh/18576894?1730327624.png"
+    }
+  },
+  {
+    "id": 1622,
+    "name": "BRONGS",
+    "short_name": "BRON",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1622/4ae21549e4ff9928a35d52b80d46ae7bc4c28d746c2852530cc3114f89d70314.gif",
+    "header_url": "https://assets.ppy.sh/teams/header/1622/4ae21549e4ff9928a35d52b80d46ae7bc4c28d746c2852530cc3114f89d70314.gif",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 42,
+    "leader": {
+      "username": "-Chico",
+      "id": 7000021,
+      "avatar_url": "https://a.ppy.sh/7000021?1689031706.jpeg"
+    }
+  },
+  {
+    "id": 1623,
+    "name": "frigging tuff",
+    "short_name": "TUFF",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1623/ac4a58b7dfc8237c85920840fd46473e199ed0972cf4d809bf468fe9c7526f1e.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1623/45a556586b304044d121e71769dc5f8d225174b48a8d0208f5b658cd09a24586.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 6,
+    "leader": {
+      "username": "meoxa",
+      "id": 15911920,
+      "avatar_url": "https://a.ppy.sh/15911920?1740784350.jpeg"
+    }
+  },
+  {
+    "id": 1624,
+    "name": "House Raspberry @ osu!",
+    "short_name": "HR@O",
+    "flag_url": null,
+    "header_url": "https://assets.ppy.sh/teams/header/1624/b54d0d2dcf0ffc6e2d47e6de3ad553b071f543ee70a6bddbd3d3f00dddf2b02b.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!mania",
+    "application_status": "Open",
+    "member_count": 0,
+    "leader": {
+      "username": "Linzer Cookie",
+      "id": 21489255,
+      "avatar_url": "https://a.ppy.sh/21489255?1739368827.jpeg"
+    }
+  },
+  {
+    "id": 1627,
+    "name": "monkeys",
+    "short_name": "mmm",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1627/8b84a508bcda36691c227ef38fe4adad22f49f020b2148c0c549a9650d824b8b.png",
+    "header_url": null,
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 1,
+    "leader": {
+      "username": "Remorias",
+      "id": 27899791,
+      "avatar_url": "https://a.ppy.sh/27899791?1649440986.jpeg"
+    }
+  },
+  {
+    "id": 1628,
+    "name": "kuso",
+    "short_name": "kuso",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1628/aa88eaafc51d1697b2a8a981209077d43172db6c470f4e71bea04069ab97c83e.gif",
+    "header_url": "https://assets.ppy.sh/teams/header/1628/fab8d5ecf06b8e468de1b4f8d8e061551478c59b0b9c1ad95858208ce532ff73.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 0,
+    "leader": {
+      "username": "k u s o",
+      "id": 16055911,
+      "avatar_url": "https://a.ppy.sh/16055911?1720294071.jpeg"
+    }
+  },
+  {
+    "id": 1629,
+    "name": "AMURO ARMY",
+    "short_name": "ARMY",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1629/84ce27478e7657db244cb05e5a82332ffa738d827e8454b4e19324b20223274d.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1629/d20ab09e9477edde144ab269a4eee5957eeff0c5d46d2ea968ab5bc40357c8cb.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 13,
+    "leader": {
+      "username": "Keyz",
+      "id": 10408325,
+      "avatar_url": "https://a.ppy.sh/10408325?1669957178.jpeg"
+    }
+  },
+  {
+    "id": 1632,
+    "name": "transgender",
+    "short_name": "bark",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1632/9027f5752d8afa77c8be4dcf4234c7548e7fc57b35c7788a27923953c3d74968.png",
+    "header_url": null,
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 1,
+    "leader": {
+      "username": "addison",
+      "id": 18230139,
+      "avatar_url": "https://a.ppy.sh/18230139?1718918023.jpeg"
+    }
+  },
+  {
+    "id": 1633,
+    "name": "WOLVES",
+    "short_name": "WOLF",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1633/65472970a07e34f71e485a454a0e8f01f77b5d1ee6f2926acc5d48729b5a8b1a.png",
+    "header_url": null,
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 0,
+    "leader": {
+      "username": "flowerwolf",
+      "id": 4055643,
+      "avatar_url": "https://a.ppy.sh/4055643?1740681645.jpeg"
+    }
+  },
+  {
+    "id": 1635,
+    "name": "kitty",
+    "short_name": "purr",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1635/1564c3a7425a5138b3bbbcf9286b8eaf77baa64d9327d489d8ae12186e0a691b.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1635/f5b1d645001616fed078cf224c6af5b87aeb69ebaab548b6bd77d012e5e76c79.gif",
+    "created": "February 2025",
+    "default_ruleset": "osu!taiko",
+    "application_status": "Open",
+    "member_count": 2,
+    "leader": {
+      "username": "Tsukani",
+      "id": 5146144,
+      "avatar_url": "https://a.ppy.sh/5146144?1730159627.jpeg"
+    }
+  },
+  {
+    "id": 1636,
+    "name": "osu! virgin gang",
+    "short_name": "ovg!",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1636/4d5614f73036b1df79825e33b0fc995f3db21efe42417f9bd3324ed6c9d03c0b.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1636/a7a7044326efa8ee2b5eba6cd27b51301e6af55604ad7a1abc4f63fd50894356.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 0,
+    "leader": {
+      "username": "FloatingSalmn",
+      "id": 30801737,
+      "avatar_url": "https://a.ppy.sh/30801737?1740052468.jpeg"
+    }
+  },
+  {
+    "id": 1638,
+    "name": "Pala Pusing Kurang Money",
+    "short_name": "PPKM",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1638/845a78f3b3eda30235e7fb0f97ab6afa365682a590f8af0d2bb65fba58db907a.gif",
+    "header_url": "https://assets.ppy.sh/teams/header/1638/4537fa8352010aa60cd006d6e317b843df4b05a4503f3f9d32c2f60454f1f436.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!catch",
+    "application_status": "Open",
+    "member_count": 17,
+    "leader": {
+      "username": "Urabe Mikoto",
+      "id": 1272422,
+      "avatar_url": "https://a.ppy.sh/1272422?1726883948.jpeg"
+    }
+  },
+  {
+    "id": 1642,
+    "name": "Federal Bureau of Investigation",
+    "short_name": "FBI",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1642/32a20e984e58a479033acf7fece2e5a08dd01ec6f526132e0a6887f232041314.jpeg",
+    "header_url": null,
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 1,
+    "leader": {
+      "username": "Inspra",
+      "id": 7144465,
+      "avatar_url": "https://a.ppy.sh/7144465?1615460308.jpeg"
+    }
+  },
+  {
+    "id": 1643,
+    "name": "Hasunosora no koto sukisuki club no minasan",
+    "short_name": "HASU",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1643/a64d7c623390768c26bee27b76e94432c5cd976c314e75d870b94aa9009d085a.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1643/e5fea4b9f5e238230e4bc1845f6e522872cff8d712ffaf6d6c4878fb76eb3002.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 1,
+    "leader": {
+      "username": "DDBOT",
+      "id": 3812276,
+      "avatar_url": "https://a.ppy.sh/3812276?1740766954.jpeg"
+    }
+  },
+  {
+    "id": 1644,
+    "name": "Call To Arms",
+    "short_name": "CTA",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1644/ab29d234bdddaa660ca0def5e12072ce986f68531deede63a64df12b39656417.png",
+    "header_url": null,
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 6,
+    "leader": {
+      "username": "Michka",
+      "id": 10636530,
+      "avatar_url": "https://a.ppy.sh/10636530?1717500807.jpeg"
+    }
+  },
+  {
+    "id": 1645,
+    "name": "Welcome to the Liquicity Airlines !",
+    "short_name": "G0D",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1645/2cf98d60fc7334f832204cb3aa6761119d74cff5d101b3bfcd7ee2478ca11bbe.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1645/1afc2111258c55829f02d120c39b936cd131538a46c440aeaa376878e303f0b1.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 0,
+    "leader": {
+      "username": "Exterminat0r",
+      "id": 13352562,
+      "avatar_url": "https://a.ppy.sh/13352562?1738688665.jpeg"
+    }
+  },
+  {
+    "id": 1646,
+    "name": "Utiba",
+    "short_name": "Luna",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1646/9af712fa5a90dd0095988a5cfc2705f9bceaa1299abcca704db4fbe99d2243c6.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1646/5a789ff21aae50b674bff2d385851233d45cfaf38fcd409392ee9d2e406ab36a.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 1,
+    "leader": {
+      "username": "Utiba",
+      "id": 11354436,
+      "avatar_url": "https://a.ppy.sh/11354436?1721109761.jpeg"
+    }
+  },
+  {
+    "id": 1647,
+    "name": "SchokiFans",
+    "short_name": "SF",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1647/960d3758cffcc0fd1fa580650c20f0c3f1fe73ba9eee739a2543a0b1330341ef.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1647/2d9324132dc55ea127dec764f54227eb2d0e7d785f5385640046ab335e28f0d7.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 7,
+    "leader": {
+      "username": "Vapor_",
+      "id": 14924154,
+      "avatar_url": "https://a.ppy.sh/14924154?1740097392.jpeg"
+    }
+  },
+  {
+    "id": 1648,
+    "name": "osu! furries :3",
+    "short_name": "fur",
+    "flag_url": null,
+    "header_url": null,
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 0,
+    "leader": {
+      "username": "Axylotl",
+      "id": 19251614,
+      "avatar_url": "https://a.ppy.sh/19251614?1716200383.jpeg"
+    }
+  },
+  {
+    "id": 1650,
+    "name": "Millennium",
+    "short_name": "2000",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1650/62fb76c9df86ccff199a0e7ba650f7d507933023c1592ebd857da0c73f0df955.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1650/ee39b62bb576502977d22ec342c2d6ea4453bd7c0ab5ef55f28aa49e41949d2c.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 0,
+    "leader": {
+      "username": "Mara",
+      "id": 194294,
+      "avatar_url": "https://a.ppy.sh/194294?1667626719.png"
+    }
+  },
+  {
+    "id": 1652,
+    "name": "nofail",
+    "short_name": "NF",
+    "flag_url": null,
+    "header_url": null,
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 0,
+    "leader": {
+      "username": "mvtrnx",
+      "id": 15054209,
+      "avatar_url": "https://a.ppy.sh/15054209?1735513892.jpeg"
+    }
+  },
+  {
+    "id": 1654,
+    "name": "Secreto",
+    "short_name": "MCR",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1654/191f38038440e697597e55a3c91bc874d3535b940dd5c149442a8c7845b1c45b.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1654/d09553d536e2d906a65e1c1c5b9ea6538861d0f0425587be619746387bece3c9.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 10,
+    "leader": {
+      "username": "Kurumiw",
+      "id": 11415687,
+      "avatar_url": "https://a.ppy.sh/11415687?1739740336.jpeg"
+    }
+  },
+  {
+    "id": 1655,
+    "name": "wen day is dark alway rember happy day",
+    "short_name": "wen",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1655/a860da896ad20c1b5855c21aaf2981936912099be14e24138b67ac4371d233ea.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1655/306c33733cb893411cbf3747197cb8a9fda7afed8d416fed49dea26f2c1b1a59.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 5,
+    "leader": {
+      "username": "Tinutuan",
+      "id": 10013139,
+      "avatar_url": "https://a.ppy.sh/10013139?1740808994.jpeg"
+    }
+  },
+  {
+    "id": 1658,
+    "name": "ilo",
+    "short_name": "ilo",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1658/1c4f88ad1c70a1caec2fa15e16d9d018515f02fe557ed99bc2815efc16777c71.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1658/732db330da538426a744ef48950b7b0fd48025ea2d757762ba77571c862c1f82.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 25,
+    "leader": {
+      "username": "AllyrD",
+      "id": 9561644,
+      "avatar_url": "https://a.ppy.sh/9561644?1732529725.jpeg"
+    }
+  },
+  {
+    "id": 1659,
+    "name": "Wizards",
+    "short_name": "www",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1659/4959f173ff82e0b0444c0bb3c8670007b390700506ab4935d9b9eaeed4ce91cc.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1659/00f869aaf5c859441ee12ca501b4a06a7046e6e7dc6007750cc1d1f5a2f30da0.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 10,
+    "leader": {
+      "username": "Aseridan",
+      "id": 9217468,
+      "avatar_url": "https://osu.ppy.sh/images/layout/avatar-guest@2x.png"
+    }
+  },
+  {
+    "id": 1660,
+    "name": "test team",
+    "short_name": "oax",
+    "flag_url": null,
+    "header_url": null,
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 0,
+    "leader": {
+      "username": "segow",
+      "id": 10242527,
+      "avatar_url": "https://a.ppy.sh/10242527?1739613868.jpeg"
+    }
+  },
+  {
+    "id": 1661,
+    "name": "Mania Germany",
+    "short_name": "GER",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1661/720fa77b9a12ac274eabec14ae53473f55ac8597ea79f1eeeb0b8ec05f020d1b.png",
+    "header_url": null,
+    "created": "February 2025",
+    "default_ruleset": "osu!mania",
+    "application_status": "Open",
+    "member_count": 1,
+    "leader": {
+      "username": "Niko_Plays",
+      "id": 9409456,
+      "avatar_url": "https://a.ppy.sh/9409456?1707255106.png"
+    }
+  },
+  {
+    "id": 1662,
+    "name": "We Love Moo Deng",
+    "short_name": "DENG",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1662/a007607bafefa2632ad8bf9559d46e20d53dc5955e6d9df9987a1646bd4eba88.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1662/6af00bdd101b44b38e340908ea5fc5f9b5181caefa6f0dde1596c7aa78a68713.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 29,
+    "leader": {
+      "username": "[ Master ]",
+      "id": 12130906,
+      "avatar_url": "https://a.ppy.sh/12130906?1738589946.jpeg"
+    }
+  },
+  {
+    "id": 1663,
+    "name": "cutecore",
+    "short_name": "ctcr",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1663/f0a16a40949f87c9dd795fc73af079bd8c88ec6482306e65a7ee6f2075272c7d.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1663/d9d87cc814a3b1b4ad78e37c1a88af76e04692929a80819ca69ef74008ccc830.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 1,
+    "leader": {
+      "username": "pixel love",
+      "id": 36817339,
+      "avatar_url": "https://a.ppy.sh/36817339?1739607977.jpeg"
+    }
+  },
+  {
+    "id": 1666,
+    "name": "Fire And Ice Tremendous Team",
+    "short_name": "Ever",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1666/51f56435b2e10f7ad3b003f72bb7dc03cfce52fab26d7bc17383a92ae49f192e.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1666/13fec48e555a6f141fcfdc51f352d43e78d7424938f21cba7393215380b72947.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 16,
+    "leader": {
+      "username": "GalaxySpeaker",
+      "id": 28319612,
+      "avatar_url": "https://a.ppy.sh/28319612?1728994615.png"
+    }
+  },
+  {
+    "id": 1668,
+    "name": "NoMod",
+    "short_name": "NM",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1668/d45098984f803372f09f4dba62e797433f745b29cfabace53c1cf8d15599ce6b.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1668/c68bc7f775eb1193c4984c6647153e19d2c4aa93b8c97816796f4833f38606b8.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 1,
+    "leader": {
+      "username": "Dynam1cNET",
+      "id": 12540789,
+      "avatar_url": "https://a.ppy.sh/12540789?1736093849.jpeg"
+    }
+  },
+  {
+    "id": 1670,
+    "name": "Some Team",
+    "short_name": "ST",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1670/d5082be9d4712052cbbc206898b963dd4ae905e1420d89b97d46515f82a988e2.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1670/38f5fa7589242a208d9d7be079655a54caacd9fd70bea1e90e01cce6a13d3e27.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 3,
+    "leader": {
+      "username": "RyeNO",
+      "id": 13836777,
+      "avatar_url": "https://a.ppy.sh/13836777?1719940465.jpeg"
+    }
+  },
+  {
+    "id": 1672,
+    "name": "Genshin Impact",
+    "short_name": "WISH",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1672/91ab02dbc81c5ef42411fcc5507896dcb6d7334a870b9d7921f0a6bce66cc01d.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1672/879313dc3db57f15453ab464bfd1c563eb1282180d3e8f82eea2251f59dfea29.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 4,
+    "leader": {
+      "username": "shibxx",
+      "id": 25422206,
+      "avatar_url": "https://a.ppy.sh/25422206?1703167088.jpeg"
+    }
+  },
+  {
+    "id": 1673,
+    "name": "osu yappers",
+    "short_name": "YAP",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1673/2fea3d6ec8c23eed90491aacafc453a3bdcc8e6d14933f078a37287426614b4c.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1673/2fea3d6ec8c23eed90491aacafc453a3bdcc8e6d14933f078a37287426614b4c.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 22,
+    "leader": {
+      "username": "aza_",
+      "id": 13216227,
+      "avatar_url": "https://a.ppy.sh/13216227?1740445466.jpeg"
+    }
+  },
+  {
+    "id": 1674,
+    "name": "Stardust Crusaders",
+    "short_name": "D4C",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1674/4fd04868244ca42cd00f3537f3d101ee21b3c90e8b077910ea41d6d4a722e894.gif",
+    "header_url": "https://assets.ppy.sh/teams/header/1674/adc7dfa5f745468a074c6673c7c3dd0cfb492e9ba9d963af89c164c3c850c733.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 7,
+    "leader": {
+      "username": "AstroVnz",
+      "id": 24486749,
+      "avatar_url": "https://a.ppy.sh/24486749?1740330049.png"
+    }
+  },
+  {
+    "id": 1677,
+    "name": "JJJJ",
+    "short_name": "JJJJ",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1677/43e8f6c47f24ddc0ad9aa73fd04d3e6a95bbb8c343fc3af82cb1feb105f8579b.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1677/8608943bd30a85d183ef79f74d117f2d6f1ebd3d71528b02862839b69915b308.gif",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 15,
+    "leader": {
+      "username": "Chaoslitz",
+      "id": 3621552,
+      "avatar_url": "https://a.ppy.sh/3621552?1723929973.jpeg"
+    }
+  },
+  {
+    "id": 1679,
+    "name": "having a life",
+    "short_name": "laid",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1679/042ebb62b5eca40f9725020550050196d88be008115ec9b05a9ff709c82295b8.jpeg",
+    "header_url": null,
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 0,
+    "leader": {
+      "username": "silverfishy",
+      "id": 10654586,
+      "avatar_url": "https://a.ppy.sh/10654586?1739010638.png"
+    }
+  },
+  {
+    "id": 1681,
+    "name": "#squad 032",
+    "short_name": "#032",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1681/77fa31b957e8d5321cff43dec266eeff35fab5ed60ff9bc8aaa3336c3b35a4f8.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1681/5b031a00208e266968b7f27a80d9fd3da95f3b878814bd1bb80d217d47f5c239.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 2,
+    "leader": {
+      "username": "archeotitan",
+      "id": 23084191,
+      "avatar_url": "https://a.ppy.sh/23084191?1705626020.jpeg"
+    }
+  },
+  {
+    "id": 1682,
+    "name": "Jaegerists",
+    "short_name": "PEAK",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1682/256a57b5399d5063b221d9dc0f3285df856b256b0607e38bc7d8aee5e041d4b3.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1682/81c03a33f1adee9233a927a0cc864b46480bcfd7ff1e03a3d66bc7bc49eff103.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 6,
+    "leader": {
+      "username": "Guyra_",
+      "id": 14959508,
+      "avatar_url": "https://a.ppy.sh/14959508?1739672882.png"
+    }
+  },
+  {
+    "id": 1683,
+    "name": "Blue Dream",
+    "short_name": "BLDM",
+    "flag_url": null,
+    "header_url": null,
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 0,
+    "leader": {
+      "username": "XiaoLan9999",
+      "id": 15748267,
+      "avatar_url": "https://a.ppy.sh/15748267?1738612900.png"
+    }
+  },
+  {
+    "id": 1688,
+    "name": "Anti-Aim",
+    "short_name": "AA",
+    "flag_url": null,
+    "header_url": null,
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 0,
+    "leader": {
+      "username": "Vanillia",
+      "id": 680441,
+      "avatar_url": "https://a.ppy.sh/680441?1740057985.jpeg"
+    }
+  },
+  {
+    "id": 1691,
+    "name": "xX_gLOryHAMmerXx_9348",
+    "short_name": "GLHM",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1691/c799fd6a1b76cd09bf5d4ae5b0d9a07735383612af062ea303fcb91f99d873a0.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1691/805a1fa4f47a1f555ed5f959ac79bbb9a3632c14976d3aa2765bf8449f322e9a.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 5,
+    "leader": {
+      "username": "okeaoska",
+      "id": 13349049,
+      "avatar_url": "https://a.ppy.sh/13349049?1736670445.jpeg"
+    }
+  },
+  {
+    "id": 1692,
+    "name": "bomba",
+    "short_name": "BOMB",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1692/99f8605ebbaed866664765d4e24c13368b621e787f8f9a31b427dfd2c69b07ee.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1692/b79dedbf62f909f8172b8ec21f4196024069a843cca57645acca8a320bfd4b9c.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 2,
+    "leader": {
+      "username": "Mastasz",
+      "id": 1876565,
+      "avatar_url": "https://a.ppy.sh/1876565?1739539627.jpeg"
+    }
+  },
+  {
+    "id": 1695,
+    "name": "Crazy",
+    "short_name": "Crz",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1695/8af56d90b632d563b4acd307346fbe40ba99192f943441338f4bc4883929da1c.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1695/6059f8f26a910685834bbe452e668f9e4c695170291b72064d0b9902578da972.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!mania",
+    "application_status": "Open",
+    "member_count": 47,
+    "leader": {
+      "username": "[Crz]xz1z1z",
+      "id": 10500832,
+      "avatar_url": "https://a.ppy.sh/10500832?1719215006.jpeg"
+    }
+  },
+  {
+    "id": 1696,
+    "name": "Refugee Camp",
+    "short_name": "RC",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1696/f3911cea9321311b52673b3ea61e241f13f61e6c35f2815c50f73040c6627aaa.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1696/f3911cea9321311b52673b3ea61e241f13f61e6c35f2815c50f73040c6627aaa.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 2,
+    "leader": {
+      "username": "Rogdude",
+      "id": 5085235,
+      "avatar_url": "https://a.ppy.sh/5085235?1703455652.jpeg"
+    }
+  },
+  {
+    "id": 1697,
+    "name": "key",
+    "short_name": "key",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1697/706d9653430c8798d9a6bea9b3126d7099168a9e15f8aa5e9426e53bc01558d7.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1697/33c3a1f1d811bcf883aed23d0a689c4a04aed7626fb2d46acc33381e7e93526a.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 52,
+    "leader": {
+      "username": "taro",
+      "id": 13586618,
+      "avatar_url": "https://a.ppy.sh/13586618?1739224653.jpeg"
+    }
+  },
+  {
+    "id": 1701,
+    "name": "YAY",
+    "short_name": "YAY",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1701/947ee62885e0b77779fe2403b727afb1fb61464e41502faa037da2a9ce7452d1.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1701/4e0912c21c85e768b6169989248d188af7b7ce1c87241e0baac34e8175aa7f06.gif",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 3,
+    "leader": {
+      "username": "-Eni-",
+      "id": 12074313,
+      "avatar_url": "https://a.ppy.sh/12074313?1704122707.jpeg"
+    }
+  },
+  {
+    "id": 1702,
+    "name": "siguma",
+    "short_name": "2137",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1702/4a542bf8355910bfd7ddbe0b885a3ced23c79788f40f49efecefbc9721409375.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1702/1d085c56b45872edb7ee9b83681b1005946d0499f2c7541cfa14a7d2703ac8ca.gif",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 12,
+    "leader": {
+      "username": "qugut",
+      "id": 11465138,
+      "avatar_url": "https://a.ppy.sh/11465138?1739362252.jpeg"
+    }
+  },
+  {
+    "id": 1703,
+    "name": "Hakui Koyori",
+    "short_name": "Koyo",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1703/11676475f44814c1676c5d0408653b56730234bca800e6ce1b4b77b1d6f9ddbd.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1703/444e7e90ee79d37f7ce49ccaf644cf816becd5dc63ff8678ce6208043365ecb4.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 2,
+    "leader": {
+      "username": "Adam40505",
+      "id": 10996667,
+      "avatar_url": "https://a.ppy.sh/10996667?1739488370.jpeg"
+    }
+  },
+  {
+    "id": 1707,
+    "name": "seedcrack",
+    "short_name": "seed",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1707/ca5f2a71119a1d580a75b62b663c5937a7a2114a18590cbdf687ee894542f092.gif",
+    "header_url": "https://assets.ppy.sh/teams/header/1707/e4640e5bbbdcd3040d607aefc9e96a3436bf6c8d35670977fe17aa0297a5fa05.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 6,
+    "leader": {
+      "username": "seedcrack",
+      "id": 29735050,
+      "avatar_url": "https://a.ppy.sh/29735050?1736037025.png"
+    }
+  },
+  {
+    "id": 1709,
+    "name": "Neko's Club",
+    "short_name": "maow",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1709/aad7ea7a76f435cccd07f981e6a31243cb706193b4a140c455a28a0499f5a354.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1709/18529f0b1a15a4f2cd2d2bf560173112b2e3ef29f61bd1f356f96b8a2623e272.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 11,
+    "leader": {
+      "username": "zSmoxKe",
+      "id": 11929867,
+      "avatar_url": "https://a.ppy.sh/11929867?1724082460.jpeg"
+    }
+  },
+  {
+    "id": 1711,
+    "name": "Fumos",
+    "short_name": "2hu",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1711/e088f76380df7812cd090f779045584f6158618d0bdfed58ae8c05cf9c82e430.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1711/7c479654c894064be9351c5d90f8fddfc81348922f7cfe5ddeb4acbc4255978a.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 21,
+    "leader": {
+      "username": "KubeShark",
+      "id": 25650449,
+      "avatar_url": "https://a.ppy.sh/25650449?1739476345.jpeg"
+    }
+  },
+  {
+    "id": 1712,
+    "name": "Oiiaooiiai",
+    "short_name": "OIIA",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1712/2673a184ab12dc0cbce2c9e0f1598643632d4e74c16291a13c9dee5d4f3932c3.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1712/0e58f37785652b00f9642a43ee289c4b6274ab5cffc5184a4bb058c2be215fed.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 3,
+    "leader": {
+      "username": "- PIKAYUME -",
+      "id": 10264988,
+      "avatar_url": "https://a.ppy.sh/10264988?1739139807.jpeg"
+    }
+  },
+  {
+    "id": 1713,
+    "name": "satanas",
+    "short_name": "HELL",
+    "flag_url": null,
+    "header_url": null,
+    "created": "February 2025",
+    "default_ruleset": "osu!taiko",
+    "application_status": "Open",
+    "member_count": 1,
+    "leader": {
+      "username": "alisa666",
+      "id": 36402293,
+      "avatar_url": "https://a.ppy.sh/36402293?1731958290.jpeg"
+    }
+  },
+  {
+    "id": 1714,
+    "name": "YaeMiko",
+    "short_name": "Yae",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1714/ddea538a08a314a4105ab9750b38172b6958aa17f70a79177523d42466bed809.png",
+    "header_url": "https://assets.ppy.sh/teams/header/1714/d61e41bdde8adedc2c2d6715f7a26de2f07776e8358e9030527eee665425e1de.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 2,
+    "leader": {
+      "username": "Blucanillo",
+      "id": 4858747,
+      "avatar_url": "https://a.ppy.sh/4858747?1705074411.jpeg"
+    }
+  },
+  {
+    "id": 1716,
+    "name": "Odinochestvo",
+    "short_name": "bzbz",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1716/512366093fd06ec07e1fec31345d08f89e6a0a78351e47c1fcea0eeeec61b416.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1716/47fbc3f20f41afa7781b5cbdaa7ede9558260c6dc8ad12a2161b08ca32565441.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 2,
+    "leader": {
+      "username": "bergo",
+      "id": 32399840,
+      "avatar_url": "https://a.ppy.sh/32399840?1739043460.jpeg"
+    }
+  },
+  {
+    "id": 1718,
+    "name": "SATA ANDAGI",
+    "short_name": "SATA",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1718/82f153aba790b43627196b89c28695d0fe7935ac982469db8aded75c80fdc886.jpeg",
+    "header_url": "https://assets.ppy.sh/teams/header/1718/15dc54218788731b89505d78d2e079815625776fb1bfa2d82f3e9747e629edcc.jpeg",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 7,
+    "leader": {
+      "username": "cryptic21",
+      "id": 31508682,
+      "avatar_url": "https://a.ppy.sh/31508682?1738216634.jpeg"
+    }
+  },
+  {
+    "id": 1719,
+    "name": "sigmaAim",
+    "short_name": "sAim",
+    "flag_url": "https://assets.ppy.sh/teams/flag/1719/0036d423a8f05cd55738e469dc620f499cadc4d97b59c7256b0dcba413cb346c.gif",
+    "header_url": "https://assets.ppy.sh/teams/header/1719/ddea9222ab7fa4504bfd1aea7aeca2a715f9eaaa5f4efe3e8d133acc8a7350c2.png",
+    "created": "February 2025",
+    "default_ruleset": "osu!",
+    "application_status": "Open",
+    "member_count": 1,
+    "leader": {
+      "username": "Vixima",
+      "id": 8379944,
+      "avatar_url": "https://a.ppy.sh/8379944?1737758783.jpeg"
+    }
   }
 ]
