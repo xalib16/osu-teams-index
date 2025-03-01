@@ -1,7 +1,7 @@
 <html lang="en"><head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>osu!teams index</title>
+    <title>osu!teams</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -106,7 +106,7 @@
 </head>
 <body>
     
-<a href="https://github.com/xalib16"><img src="/home/nataliya/Downloads/github-mark-c791e9551fe4/github-mark/github-mark.png" width="40px" height="40px" style="
+<a href="https://github.com/xalib16/osu-teams-index"><img src="assets/github-mark.png" width="40px" height="40px" style="
     position: absolute;
     right: 10px;
     top: 10px;
@@ -268,10 +268,11 @@
                 <p class="team-members-count">Members Count: 0</p>
                 <p>Leader - <a class="team-leader" href="leader_url">teamleadername</a></p>
             </div>
-        </div>
+        </div><!-- Add more team-cards as needed -->
     </div>
 
     <script>
+        // Add search function logic here
         document.getElementById('search').addEventListener('input', function(event) {
             const query = event.target.value.toLowerCase();
             const teamCards = document.querySelectorAll('.team-card');
