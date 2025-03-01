@@ -255,7 +255,8 @@
                 const teamId = `#${team.id}`;
                 const teamName = team.name.toLowerCase();
                 const teamShortName = team.short_name.toLowerCase();
-                return teamId.includes(query) || teamName.includes(query) || teamShortName.includes(query);
+                const teamLeaderName = team.leader.username.toLowerCase();
+                return teamId.includes(query) || teamName.includes(query) || teamShortName.includes(query) || teamLeaderName.includes(query);
             });
 
             filteredTeams.slice(0, teamsToShow).forEach(createTeamCard);
