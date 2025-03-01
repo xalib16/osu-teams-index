@@ -11,7 +11,7 @@ https://xalib16.github.io/osu-teams-index/
 ### Searchable things:
 - `#teamId` - The team id with # as a prefix
 - Team name
-- Team short name e.g. [ABCD] 
+- Team short name (4 characters)
 - Team leader username
 
 **Here is a grid preview (zoomed in):**
