@@ -186,11 +186,11 @@
             teamHeader.className = 'team-header';
             const headerImageContainer = document.createElement('div');
             headerImageContainer.className = 'header-image-container';
-            if (teamInfo.header_url) {
+            if (teamInfo.header_url != null) {
                 headerImageContainer.style.backgroundImage = `url('${teamInfo.header_url}')`;
             };
             const teamFlag = document.createElement('span');
-            if (teamInfo.flag_url) {
+            if (teamInfo.flag_url != null) {
                 teamFlag.style.backgroundImage = `url('${teamInfo.flag_url}')`;
             };
             //teamFlag.alt = 'No flag image';
