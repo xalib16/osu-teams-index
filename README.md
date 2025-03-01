@@ -6,9 +6,9 @@ https://xalib16.github.io/osu-teams-index/
 
 - Teams data will be added to [global-teams-data.json](https://github.com/xalib16/osu-teams-index/edit/main/global-teams-data.json) daily, which will be displayed on [this github preview site.](https://xalib16.github.io/osu-teams-index/).
   
-Here is a preview:
+Here is a grid preview (zoomed in):
 
-![image](https://github.com/user-attachments/assets/709b7e45-06ea-43c7-878d-d8ce2c03464d)
+![image](https://github.com/user-attachments/assets/7b62f13e-de75-4524-9bbe-fdb56af787c3)
 
 
 ## DISCLAIMER:
