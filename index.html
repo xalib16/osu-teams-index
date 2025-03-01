@@ -153,7 +153,6 @@
     <button onclick="loadMoreTeams()" class="load-more">Load more teams</button>
 
     <script>
-        // Add search function logic here
         document.getElementById('search').addEventListener('input', function (event) {
             const query = event.target.value.toLowerCase();
             const teamCards = document.querySelectorAll('.team-card');
@@ -245,10 +244,8 @@
         };
 
         function displaySearchResults(query) {
-            // Clear current cards
             teamCardsGrid.innerHTML = '';
 
-            // Filter teams based on search query
             const filteredTeams = teamsArray.filter(team => {
                 const teamId = `#${team.id}`;
                 const teamName = team.name.toLowerCase();
@@ -256,12 +253,10 @@
                 return teamId.includes(query) || teamName.includes(query) || teamShortName.includes(query);
             });
 
-            // Display filtered results
             filteredTeams.slice(0, teamsToShow).forEach(createTeamCard);
 
             currentIndex = teamsToShow;
 
-            // Load more results if needed
             const loadMoreBtn = document.querySelector(".load-more");
             loadMoreBtn.style.display = filteredTeams.length > teamsToShow ? "block" : "none";
 
@@ -278,13 +273,11 @@
 
             loadMoreBtn.onclick = loadMoreSearchResults;
 
-            // Trigger initial load if not enough results to fill the view
             if (document.body.offsetHeight <= window.innerHeight && currentIndex < filteredTeams.length) {
                 loadMoreSearchResults();
             }
         }
 
-        // Add event listener for search input
         document.getElementById('search').addEventListener('input', function (event) {
             const query = event.target.value.toLowerCase();
             displaySearchResults(query);
