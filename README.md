@@ -5,7 +5,8 @@ The osu! website does not currently have a team search function, you may use thi
 https://xalib16.github.io/osu-teams-index/
 
 - Teams data will be added to [global-teams-data.json](https://github.com/xalib16/osu-teams-index/edit/main/global-teams-data.json) daily, which will be displayed on [this github preview site.](https://xalib16.github.io/osu-teams-index/).
-Preview:
+  
+- Preview:
 
 ![image](https://github.com/user-attachments/assets/537fee07-0579-4bac-b59d-32d6d8551f24)
 
