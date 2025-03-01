@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>osu!teams index</title>
+    <title>osu!teams</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -150,7 +150,7 @@
     <div class="grid">
 
     </div>
-    <button onclick="loadMoreTeams()" class="load-more">Load more teams</button>
+    <button onclick="loadMoreSearchResults()" class="load-more">Load more teams</button>
 
     <script>
         document.getElementById('search').addEventListener('input', function (event) {
@@ -165,10 +165,12 @@
             });
         });
 
+        const loadMoreBtn = document.querySelector(".load-more");
         let teamCardsGrid = document.querySelector(".grid");
         let teamsArray = [];
         let teamsToShow = 10;
         let currentIndex = 0;
+        let filteredTeams = [];
 
         function createTeamCard(teamInfo) {
             if (teamInfo == null) return;
@@ -227,40 +229,12 @@
                 if (response.ok) {
                     teamsArray = await response.json();
                     document.querySelector(".team-count").innerText = `${teamsArray.length} teams found in database (last id = ${teamsArray[teamsArray.length - 1].id})`;
-                    loadMoreTeams(); // Initial load
+                    displaySearchResults(""); // Initial load
                 };
             });
         };
 
-        function loadMoreTeams() {
-            const maxIndex = Math.min(currentIndex + teamsToShow, teamsArray.length);
-            for (let i = currentIndex; i < maxIndex; i++) {
-                createTeamCard(teamsArray[i]);
-            }
-            currentIndex = maxIndex;
-            if (maxIndex == teamsArray.length) {
-                document.querySelector(".load-more").style.display = "none";
-            };
-        };
-
-        function displaySearchResults(query) {
-            teamCardsGrid.innerHTML = '';
-
-            const filteredTeams = teamsArray.filter(team => {
-                const teamId = `#${team.id}`;
-                const teamName = team.name.toLowerCase();
-                const teamShortName = team.short_name.toLowerCase();
-                return teamId.includes(query) || teamName.includes(query) || teamShortName.includes(query);
-            });
-
-            filteredTeams.slice(0, teamsToShow).forEach(createTeamCard);
-
-            currentIndex = teamsToShow;
-
-            const loadMoreBtn = document.querySelector(".load-more");
-            loadMoreBtn.style.display = filteredTeams.length > teamsToShow ? "block" : "none";
-
-            function loadMoreSearchResults() {
+        function loadMoreSearchResults() {
                 const maxIndex = Math.min(currentIndex + teamsToShow, filteredTeams.length);
                 for (let i = currentIndex; i < maxIndex; i++) {
                     createTeamCard(filteredTeams[i]);
@@ -271,7 +245,22 @@
                 }
             }
 
-            loadMoreBtn.onclick = loadMoreSearchResults;
+        loadMoreBtn.onclick = loadMoreSearchResults;
+
+        function displaySearchResults(query) {
+            teamCardsGrid.innerHTML = '';
+
+            filteredTeams = teamsArray.filter(team => {
+                const teamId = `#${team.id}`;
+                const teamName = team.name.toLowerCase();
+                const teamShortName = team.short_name.toLowerCase();
+                return teamId.includes(query) || teamName.includes(query) || teamShortName.includes(query);
+            });
+
+            filteredTeams.slice(0, teamsToShow).forEach(createTeamCard);
+
+            currentIndex = teamsToShow;
+            loadMoreBtn.style.display = filteredTeams.length > teamsToShow ? "block" : "none";
 
             if (document.body.offsetHeight <= window.innerHeight && currentIndex < filteredTeams.length) {
                 loadMoreSearchResults();
