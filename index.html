@@ -1,4 +1,6 @@
-<html lang="en"><head>
+<html lang="en">
+
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>osu!teams</title>
@@ -8,17 +10,21 @@
             text-align: center;
             padding: 20px;
         }
+
         h1 {
             font-size: 2.5em;
             margin: 0;
         }
+
         label {
             font-size: 1.2em;
             margin-top: 10px;
         }
+
         .search-bar {
             margin: 20px 0;
         }
+
         .search-bar input[type="text"] {
             width: 100%;
             max-width: 400px;
@@ -27,11 +33,13 @@
             border: 1px solid #ccc;
             outline: none;
         }
+
         .grid {
             display: flex;
             flex-wrap: wrap;
             justify-content: center;
         }
+
         .team-card {
             background-color: #f4f4f4;
             border-radius: 15px;
@@ -42,15 +50,18 @@
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
             text-align: left;
         }
+
         .team-info p {
-            margin:0;
+            margin: 0;
             padding: 0;
         }
+
         .team-header {
             display: flex;
             align-items: center;
             position: relative;
         }
+
         .header-image-container {
             width: 100%;
             height: 75px;
@@ -59,6 +70,7 @@
             background-size: cover;
             background-position: center;
         }
+
         .team-flag {
             width: 90px;
             height: 45px;
@@ -67,36 +79,47 @@
             position: absolute;
             top: 90%;
             transform: translateY(-50%);
+            background-position: 50%;
+            background-repeat: no-repeat;
+            background-size: contain;
         }
+
         .team-id {
             margin: 0px;
             margin-top: -20px;
             position: relative;
             left: -20px;
         }
+
         .team-info {
             margin-top: 20px;
         }
+
         .team-name {
             margin-left: 20px;
             margin-top: 0;
         }
+
         .team-short-name {
             margin-left: 20px;
         }
+
         .team-name h2 {
             font-size: 1.5em;
             margin: 0;
         }
+
         .short-name {
             font-size: 1em;
             color: #555;
         }
+
         @media (min-width: 768px) {
             .team-card {
                 width: 45%;
             }
         }
+
         @media (min-width: 1200px) {
             .team-card {
                 width: 30%;
@@ -104,176 +127,28 @@
         }
     </style>
 </head>
+
 <body>
-    
-<a href="https://github.com/xalib16/osu-teams-index"><img src="assets/github-mark.png" width="40px" height="40px" style="
+
+    <a href="https://github.com/xalib16/osu-teams-index"><img src="assets/github-mark.png" width="40px" height="40px"
+            style="
     position: absolute;
     right: 10px;
     top: 10px;
-"></a>    
-<h1>osu!teams</h1>
-<label for="search">index</label>
+"></a>
+    <h1>osu!teams</h1>
+    <label for="search">index</label>
     <div class="search-bar">
         <input type="text" id="search" name="search" placeholder="Search teams...">
     </div>
     <div class="grid">
-        <div class="team-card">
-            <h3 class="team-id">#1</h3>
-            <div class="team-header">
-                <div class="header-image-container" style="background-image:url('https://assets.ppy.sh/teams/header/1/33e5b115557a4a44377d2c8510a55badd7dd014173595192ad2f82ee053a3302.jpeg');">
-                    <img src="https://assets.ppy.sh/teams/flag/1/b46fb10dbfd8a35dc50e6c00296c0dc6172dffc3ed3d3a4b379277ba498399fe.png" alt="Team Flag" class="team-flag">
-                </div>
-                
-            </div>
-            <div class="team-info">
-                <p class="team-name">mom?</p>
-                <p class="team-short-name">[MOM]</p>
-                <p class="team-application-status">Application Status: Open</p>
-                <p class="team-members-count">Members Count: 0</p>
-                <p>Leader - <a class="team-leader" href="leader_url">teamleadername</a></p>
-            </div>
-        </div>
-        <div class="team-card">
-            <h3 class="team-id">#1</h3>
-            <div class="team-header">
-                <div class="header-image-container" style="background-image:url('https://assets.ppy.sh/teams/header/1/33e5b115557a4a44377d2c8510a55badd7dd014173595192ad2f82ee053a3302.jpeg');">
-                    <img src="https://assets.ppy.sh/teams/flag/1/b46fb10dbfd8a35dc50e6c00296c0dc6172dffc3ed3d3a4b379277ba498399fe.png" alt="Team Flag" class="team-flag">
-                </div>
-                
-            </div>
-            <div class="team-info">
-                <p class="team-name">mom?</p>
-                <p class="team-short-name">[MOM]</p>
-                <p class="team-application-status">Application Status: Open</p>
-                <p class="team-members-count">Members Count: 0</p>
-                <p>Leader - <a class="team-leader" href="leader_url">teamleadername</a></p>
-            </div>
-        </div><div class="team-card">
-            <h3 class="team-id">#1</h3>
-            <div class="team-header">
-                <div class="header-image-container" style="background-image:url('https://assets.ppy.sh/teams/header/1/33e5b115557a4a44377d2c8510a55badd7dd014173595192ad2f82ee053a3302.jpeg');">
-                    <img src="https://assets.ppy.sh/teams/flag/1/b46fb10dbfd8a35dc50e6c00296c0dc6172dffc3ed3d3a4b379277ba498399fe.png" alt="Team Flag" class="team-flag">
-                </div>
-                
-            </div>
-            <div class="team-info">
-                <p class="team-name">mom?</p>
-                <p class="team-short-name">[MOM]</p>
-                <p class="team-application-status">Application Status: Open</p>
-                <p class="team-members-count">Members Count: 0</p>
-                <p>Leader - <a class="team-leader" href="leader_url">teamleadername</a></p>
-            </div>
-        </div><div class="team-card">
-            <h3 class="team-id">#1</h3>
-            <div class="team-header">
-                <div class="header-image-container" style="background-image:url('https://assets.ppy.sh/teams/header/1/33e5b115557a4a44377d2c8510a55badd7dd014173595192ad2f82ee053a3302.jpeg');">
-                    <img src="https://assets.ppy.sh/teams/flag/1/b46fb10dbfd8a35dc50e6c00296c0dc6172dffc3ed3d3a4b379277ba498399fe.png" alt="Team Flag" class="team-flag">
-                </div>
-                
-            </div>
-            <div class="team-info">
-                <p class="team-name">mom?</p>
-                <p class="team-short-name">[MOM]</p>
-                <p class="team-application-status">Application Status: Open</p>
-                <p class="team-members-count">Members Count: 0</p>
-                <p>Leader - <a class="team-leader" href="leader_url">teamleadername</a></p>
-            </div>
-        </div><div class="team-card">
-            <h3 class="team-id">#1</h3>
-            <div class="team-header">
-                <div class="header-image-container" style="background-image:url('https://assets.ppy.sh/teams/header/1/33e5b115557a4a44377d2c8510a55badd7dd014173595192ad2f82ee053a3302.jpeg');">
-                    <img src="https://assets.ppy.sh/teams/flag/1/b46fb10dbfd8a35dc50e6c00296c0dc6172dffc3ed3d3a4b379277ba498399fe.png" alt="Team Flag" class="team-flag">
-                </div>
-                
-            </div>
-            <div class="team-info">
-                <p class="team-name">mom?</p>
-                <p class="team-short-name">[MOM]</p>
-                <p class="team-application-status">Application Status: Open</p>
-                <p class="team-members-count">Members Count: 0</p>
-                <p>Leader - <a class="team-leader" href="leader_url">teamleadername</a></p>
-            </div>
-        </div><div class="team-card">
-            <h3 class="team-id">#1</h3>
-            <div class="team-header">
-                <div class="header-image-container" style="background-image:url('https://assets.ppy.sh/teams/header/1/33e5b115557a4a44377d2c8510a55badd7dd014173595192ad2f82ee053a3302.jpeg');">
-                    <img src="https://assets.ppy.sh/teams/flag/1/b46fb10dbfd8a35dc50e6c00296c0dc6172dffc3ed3d3a4b379277ba498399fe.png" alt="Team Flag" class="team-flag">
-                </div>
-                
-            </div>
-            <div class="team-info">
-                <p class="team-name">mom?</p>
-                <p class="team-short-name">[MOM]</p>
-                <p class="team-application-status">Application Status: Open</p>
-                <p class="team-members-count">Members Count: 0</p>
-                <p>Leader - <a class="team-leader" href="leader_url">teamleadername</a></p>
-            </div>
-        </div><div class="team-card">
-            <h3 class="team-id">#1</h3>
-            <div class="team-header">
-                <div class="header-image-container" style="background-image:url('https://assets.ppy.sh/teams/header/1/33e5b115557a4a44377d2c8510a55badd7dd014173595192ad2f82ee053a3302.jpeg');">
-                    <img src="https://assets.ppy.sh/teams/flag/1/b46fb10dbfd8a35dc50e6c00296c0dc6172dffc3ed3d3a4b379277ba498399fe.png" alt="Team Flag" class="team-flag">
-                </div>
-                
-            </div>
-            <div class="team-info">
-                <p class="team-name">mom?</p>
-                <p class="team-short-name">[MOM]</p>
-                <p class="team-application-status">Application Status: Open</p>
-                <p class="team-members-count">Members Count: 0</p>
-                <p>Leader - <a class="team-leader" href="leader_url">teamleadername</a></p>
-            </div>
-        </div><div class="team-card">
-            <h3 class="team-id">#1</h3>
-            <div class="team-header">
-                <div class="header-image-container" style="background-image:url('https://assets.ppy.sh/teams/header/1/33e5b115557a4a44377d2c8510a55badd7dd014173595192ad2f82ee053a3302.jpeg');">
-                    <img src="https://assets.ppy.sh/teams/flag/1/b46fb10dbfd8a35dc50e6c00296c0dc6172dffc3ed3d3a4b379277ba498399fe.png" alt="Team Flag" class="team-flag">
-                </div>
-                
-            </div>
-            <div class="team-info">
-                <p class="team-name">mom?</p>
-                <p class="team-short-name">[MOM]</p>
-                <p class="team-application-status">Application Status: Open</p>
-                <p class="team-members-count">Members Count: 0</p>
-                <p>Leader - <a class="team-leader" href="leader_url">teamleadername</a></p>
-            </div>
-        </div><div class="team-card">
-            <h3 class="team-id">#1</h3>
-            <div class="team-header">
-                <div class="header-image-container" style="background-image:url('https://assets.ppy.sh/teams/header/1/33e5b115557a4a44377d2c8510a55badd7dd014173595192ad2f82ee053a3302.jpeg');">
-                    <img src="https://assets.ppy.sh/teams/flag/1/b46fb10dbfd8a35dc50e6c00296c0dc6172dffc3ed3d3a4b379277ba498399fe.png" alt="Team Flag" class="team-flag">
-                </div>
-                
-            </div>
-            <div class="team-info">
-                <p class="team-name">mom?</p>
-                <p class="team-short-name">[MOM]</p>
-                <p class="team-application-status">Application Status: Open</p>
-                <p class="team-members-count">Members Count: 0</p>
-                <p>Leader - <a class="team-leader" href="leader_url">teamleadername</a></p>
-            </div>
-        </div><div class="team-card">
-            <h3 class="team-id">#1</h3>
-            <div class="team-header">
-                <div class="header-image-container" style="background-image:url('https://assets.ppy.sh/teams/header/1/33e5b115557a4a44377d2c8510a55badd7dd014173595192ad2f82ee053a3302.jpeg');">
-                    <img src="https://assets.ppy.sh/teams/flag/1/b46fb10dbfd8a35dc50e6c00296c0dc6172dffc3ed3d3a4b379277ba498399fe.png" alt="Team Flag" class="team-flag">
-                </div>
-                
-            </div>
-            <div class="team-info">
-                <p class="team-name">mom?</p>
-                <p class="team-short-name">[MOM]</p>
-                <p class="team-application-status">Application Status: Open</p>
-                <p class="team-members-count">Members Count: 0</p>
-                <p>Leader - <a class="team-leader" href="leader_url">teamleadername</a></p>
-            </div>
-        </div><!-- Add more team-cards as needed -->
+
     </div>
+    <button onclick="loadMoreTeams()" class="load-more">Load more teams</button>
 
     <script>
         // Add search function logic here
-        document.getElementById('search').addEventListener('input', function(event) {
+        document.getElementById('search').addEventListener('input', function (event) {
             const query = event.target.value.toLowerCase();
             const teamCards = document.querySelectorAll('.team-card');
 
@@ -284,7 +159,139 @@
                 card.style.display = (teamId == query || teamName.includes(query) || (teamShortName.includes(query))) ? 'block' : 'none';
             });
         });
+
+        let teamCardsGrid = document.querySelector(".grid");
+        let teamsArray = [];
+        let teamsToShow = 10;
+        let currentIndex = 0;
+
+        function createTeamCard(teamInfo) {
+            if (teamInfo == null) return;
+            const teamCard = document.createElement('div');
+            teamCard.className = 'team-card';
+
+            const teamId = document.createElement('h3');
+            teamId.className = 'team-id';
+            teamId.textContent = `#${teamInfo.id}`;
+
+            const teamHeader = document.createElement('div');
+            teamHeader.className = 'team-header';
+            const headerImageContainer = document.createElement('div');
+            headerImageContainer.className = 'header-image-container';
+            headerImageContainer.style.backgroundImage = `url('${teamInfo.header_url}')`;
+            const teamFlag = document.createElement('span');
+            teamFlag.style.backgroundImage = `url('${teamInfo.flag_url}')`;
+            //teamFlag.alt = 'No flag image';
+            teamFlag.className = 'team-flag';
+
+            headerImageContainer.appendChild(teamFlag);
+            teamHeader.appendChild(headerImageContainer);
+
+            const teamInfoDiv = document.createElement('div');
+            teamInfoDiv.className = 'team-info';
+            const teamName = document.createElement('p');
+            teamName.className = 'team-name';
+            teamName.innerHTML = `<a href="https://osu.ppy.sh/teams/${teamInfo.id}">${teamInfo.name}</a>`;
+            const teamShortName = document.createElement('p');
+            teamShortName.className = 'team-short-name';
+            teamShortName.textContent = `[${teamInfo.short_name}]`;
+            const teamAppStatus = document.createElement('p');
+            teamAppStatus.className = 'team-application-status';
+            teamAppStatus.innerHTML = `Application Status: <span style="color:${teamInfo.application_status == "Open" ? "rgb(0,255,0)" : "rgb(255,0,0)"};">${teamInfo.application_status}</span>`;
+            const teamMembersCount = document.createElement('p');
+            teamMembersCount.className = 'team-members-count';
+            teamMembersCount.textContent = `Members Count: ${teamInfo.member_count}`;
+            const teamLeader = document.createElement('p');
+            teamLeader.innerHTML = `Leader: <a class="team-leader" href="https://osu.ppy.sh/users/${teamInfo.leader.id}">${teamInfo.leader.username}</a>`;
+
+            teamInfoDiv.appendChild(teamName);
+            teamInfoDiv.appendChild(teamShortName);
+            teamInfoDiv.appendChild(teamAppStatus);
+            teamInfoDiv.appendChild(teamMembersCount);
+            teamInfoDiv.appendChild(teamLeader);
+
+            teamCard.appendChild(teamId);
+            teamCard.appendChild(teamHeader);
+            teamCard.appendChild(teamInfoDiv);
+
+            teamCardsGrid.appendChild(teamCard);
+        };
+
+        function loadTeams() {
+            fetch("https://raw.githubusercontent.com/xalib16/osu-teams-index/refs/heads/main/global-teams-data.json").then(async response => {
+                if (response.ok) {
+                    teamsArray = await response.json();
+                    loadMoreTeams(); // Initial load
+                };
+            });
+        };
+
+        function loadMoreTeams() {
+            const maxIndex = Math.min(currentIndex + teamsToShow, teamsArray.length);
+            for (let i = currentIndex; i < maxIndex; i++) {
+                createTeamCard(teamsArray[i]);
+            }
+            currentIndex = maxIndex;
+            if (maxIndex == teamsArray.length) {
+                document.querySelector(".load-more").style.display = "none";
+            };
+        };
+
+        function displaySearchResults(query) {
+            // Clear current cards
+            teamCardsGrid.innerHTML = '';
+
+            // Filter teams based on search query
+            const filteredTeams = teamsArray.filter(team => {
+                const teamId = `#${team.id}`;
+                const teamName = team.name.toLowerCase();
+                const teamShortName = team.short_name.toLowerCase();
+                return teamId.includes(query) || teamName.includes(query) || teamShortName.includes(query);
+            });
+
+            // Display filtered results
+            filteredTeams.slice(0, teamsToShow).forEach(createTeamCard);
+
+            currentIndex = teamsToShow;
+
+            // Load more results if needed
+            const loadMoreBtn = document.querySelector(".load-more");
+            loadMoreBtn.style.display = filteredTeams.length > teamsToShow ? "block" : "none";
+
+            function loadMoreSearchResults() {
+                const maxIndex = Math.min(currentIndex + teamsToShow, filteredTeams.length);
+                for (let i = currentIndex; i < maxIndex; i++) {
+                    createTeamCard(filteredTeams[i]);
+                }
+                currentIndex = maxIndex;
+                if (currentIndex >= filteredTeams.length) {
+                    loadMoreBtn.style.display = "none";
+                }
+            }
+
+            loadMoreBtn.onclick = loadMoreSearchResults;
+
+            // Trigger initial load if not enough results to fill the view
+            if (document.body.offsetHeight <= window.innerHeight && currentIndex < filteredTeams.length) {
+                loadMoreSearchResults();
+            }
+        }
+
+        // Add event listener for search input
+        document.getElementById('search').addEventListener('input', function (event) {
+            const query = event.target.value.toLowerCase();
+            displaySearchResults(query);
+        });
+
+        window.addEventListener('scroll', () => {
+            if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
+                loadMoreTeams();
+            }
+        });
+
+        loadTeams();
     </script>
 
+</body>
 
-</body></html>
+</html>
