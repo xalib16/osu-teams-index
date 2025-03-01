@@ -8,7 +8,8 @@ https://xalib16.github.io/osu-teams-index/
   
 Here is a preview:
 
-![image](https://github.com/user-attachments/assets/537fee07-0579-4bac-b59d-32d6d8551f24)
+![image](https://github.com/user-attachments/assets/709b7e45-06ea-43c7-878d-d8ce2c03464d)
+
 
 ## DISCLAIMER:
 Over **10,000** teams already exist and it's not easy to keep track of certain things like the member count, application status, images, and whether the team was deleted. I will still check occasionally, but there are no guarantees.
