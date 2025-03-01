@@ -21,8 +21,12 @@
             margin-top: 10px;
         }
 
+        .team-count {
+            margin: 0;
+        }
+
         .search-bar {
-            margin: 20px 0;
+            margin: 10px 0;
         }
 
         .search-bar input[type="text"] {
@@ -98,6 +102,7 @@
         .team-name {
             margin-left: 20px;
             margin-top: 0;
+            overflow-wrap: break-word;
         }
 
         .team-short-name {
@@ -138,6 +143,7 @@
 "></a>
     <h1>osu!teams</h1>
     <label for="search">index</label>
+    <p class="team-count">0 teams in database</p>
     <div class="search-bar">
         <input type="text" id="search" name="search" placeholder="Search teams...">
     </div>
@@ -221,6 +227,7 @@
             fetch("https://raw.githubusercontent.com/xalib16/osu-teams-index/refs/heads/main/global-teams-data.json").then(async response => {
                 if (response.ok) {
                     teamsArray = await response.json();
+                    document.querySelector(".team-count").innerText = `${teamsArray.length} teams found in database (last id = ${teamsArray[teamsArray.length - 1].id})`;
                     loadMoreTeams(); // Initial load
                 };
             });
