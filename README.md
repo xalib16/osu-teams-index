@@ -5,8 +5,8 @@ The osu! website does not currently have a team search function, you may use thi
 https://xalib16.github.io/osu-teams-index/
 
 - New teams data will be added to [global-teams-data.json](https://github.com/xalib16/osu-teams-index/edit/main/global-teams-data.json) daily, which will be displayed on [this github preview site](https://xalib16.github.io/osu-teams-index/).
-- Amount of teams currently listed: 242
-- Goal: 10,000 teams listed
+- Amount of teams currently listed: **242**
+- Goal: **10,000** teams listed
 
 **Here is a grid preview (zoomed in):**
 
